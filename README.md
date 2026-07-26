@@ -29,6 +29,7 @@ Hold **Ctrl**, click the files you need in the Explorer, right-click → **Conte
 ### 🚀 What's New in v1.0.1
 
 * **Official VS Code Marketplace Launch:** The extension is now officially published and available for install directly from the VS Code Extensions store!
+* https://marketplace.visualstudio.com/items?itemName=memspy.context-packer
 * **Added Extension Icon:** Added a sleek, minimal avatar to make the extension easily recognizable in your sidebar and marketplace searches.
 
 ### Output format
@@ -114,6 +115,7 @@ vsce package
 ### 🚀 Что нового в v1.0.1
 
 * **Официальный релиз в VS Code Marketplace:** Расширение теперь официально опубликовано в магазине! Его можно ставить напрямую через поиск в редакторе.
+* https://marketplace.visualstudio.com/items?itemName=memspy.context-packer
 * **Добавлена иконка:** Добавлен минималистичный логотип для отображения в боковой панели и поиске маркетплейса.
 
 ### Формат вывода
