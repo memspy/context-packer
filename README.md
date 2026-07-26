@@ -71,7 +71,7 @@ Works with all major models: Claude, GPT-4/4o, Gemini, Mistral, DeepSeek, Llama,
 ### Build from source
 
 ```bash
-git clone https://github.com/memspy/сontext-packer
+git clone https://github.com/memspy/context-packer
 cd context-packer
 npm install
 npm run compile
@@ -151,7 +151,7 @@ vsce package
 ### Сборка из исходников
 
 ```bash
-git clone https://github.com/memspy/сontext-packer
+git clone https://github.com/memspy/context-packer
 cd context-packer
 npm install
 npm run compile
