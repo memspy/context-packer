@@ -25,6 +25,11 @@ Hold **Ctrl**, click the files you need in the Explorer, right-click → **Conte
 - **Auto language detection** — 40+ extensions mapped to the right code fence label
 - **Binary & size guards** — skips images, binaries, and files over the size limit automatically
 - **Configurable** — exclusion patterns, max file size, XML output mode, tree toggle
+- 
+### 🚀 What's New in v1.0.1
+
+* **Official VS Code Marketplace Launch:** The extension is now officially published and available for install directly from the VS Code Extensions store!
+* **Added Extension Icon:** Added a sleek, minimal avatar to make the extension easily recognizable in your sidebar and marketplace searches.
 
 ### Output format
 
@@ -105,6 +110,11 @@ vsce package
 - **Автоопределение языка** — 40+ расширений файлов правильно маппятся в метку блока кода
 - **Защита от мусора** — бинарники, картинки и слишком большие файлы пропускаются автоматически
 - **Гибкие настройки** — паттерны исключений, лимит размера файла, XML-режим вывода, отключение дерева
+
+### 🚀 Что нового в v1.0.1
+
+* **Официальный релиз в VS Code Marketplace:** Расширение теперь официально опубликовано в магазине! Его можно ставить напрямую через поиск в редакторе.
+* **Добавлена иконка:** Добавлен минималистичный логотип для отображения в боковой панели и поиске маркетплейса.
 
 ### Формат вывода
 
