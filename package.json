@@ -1,9 +1,15 @@
 {
   "name": "context-packer",
-  "displayName": "Context Packer",
+  "displayName": "Context Packer by memspy",
   "description": "Pack selected files into structured Markdown for AI context. Token-aware.",
-  "version": "1.0.0",
-  "publisher": "local",
+  "version": "1.0.1",
+  "publisher": "memspy",
+  "repository": {
+  "type": "git",
+  "icon": "resources/icon.png",
+  "url": "https://github.com/memspy/context-packer",
+  "license": "MIT"
+  }, 
   "engines": {
     "vscode": "^1.80.0"
   },
