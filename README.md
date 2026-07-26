@@ -1,5 +1,7 @@
 # 📦 Context Packer
 
+<p align="center"><img src="https://github.com/memspy/context-packer/blob/main/packer.png" width="80%"/></p>
+
 **[English](#english) · [Русский](#русский)**
 
 ---
